@@ -35,6 +35,24 @@
       "password": "3zccccsa",
       "name": "acsacas",
       "id": 6
+    },
+    {
+      "email": "300qdp@mail.ru",
+      "password": "123456",
+      "name": "Vova",
+      "id": 7
+    },
+    {
+      "email": "fanny@fun.com",
+      "password": "123456",
+      "name": "Vladic",
+      "id": 8
+    },
+    {
+      "email": "google@gmail.com",
+      "password": "123456",
+      "name": "Серега",
+      "id": 9
     }
   ],
   "bill": {
