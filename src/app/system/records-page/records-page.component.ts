@@ -12,4 +12,9 @@ export class RecordsPageComponent implements OnInit {
   ngOnInit() {
   }
 
+
+  newCategoryAdded(Emit) {
+    console.log('NewCatAdded', Emit);
+  }
+
 }
