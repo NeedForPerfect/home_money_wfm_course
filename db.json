@@ -53,6 +53,12 @@
       "password": "123456",
       "name": "Серега",
       "id": 9
+    },
+    {
+      "email": "casc@vvdsc.ru",
+      "password": "dawdawdadawdw",
+      "name": "dawddadadad",
+      "id": 10
     }
   ],
   "bill": {
@@ -61,7 +67,7 @@
   },
   "categories": [
     {
-      "name": "Дом",
+      "name": "Домву",
       "capacity": 15000,
       "id": 1
     },
