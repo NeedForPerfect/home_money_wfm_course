@@ -66,14 +66,29 @@
       "id": 1
     },
     {
-      "name": "Еда",
+      "name": "СобачьяЕда",
       "capacity": 10000,
       "id": 2
     },
     {
-      "name": "vjvj",
-      "capacity": 1667,
+      "name": "Neен",
+      "capacity": 7896,
       "id": 3
+    },
+    {
+      "name": "hgyyrrrrrddddd",
+      "capacity": 584577,
+      "id": 4
+    },
+    {
+      "name": "NewCat23555",
+      "capacity": 234,
+      "id": 5
+    },
+    {
+      "name": "Трататак",
+      "capacity": 133,
+      "id": 6
     }
   ],
   "events": [
